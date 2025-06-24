@@ -1,0 +1,24 @@
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .mockup {
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .conteudo {
+    align-items: center;
+  }
+
+  .conteudo h1 {
+    font-size: 24px;
+  }
+
+  .btn {
+    padding: 12px 30px;
+  }
+}
